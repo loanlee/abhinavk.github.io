@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 2"
+title: "DS-GA 1001: Introduction to Data Science"
 collection: teaching
 type: "Graduate Course"
 permalink: /teaching/2024-fall-teaching-2
@@ -8,13 +8,13 @@ date: 2024-09-01
 location: "New York, NY"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Served as a teaching assistant for the DS-GA 1001 Introduction to Data Science course at the Center for Data Science, NYU.
 
-Heading 1
+<!-- Heading 1
 ======
 
 Heading 2
 ======
 
 Heading 3
-======
+====== -->
